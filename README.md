@@ -1,7 +1,6 @@
-Gameboy Emulator
-
-Language: C# .NET
-Version: 0.6
+Gameboy Emulator  
+Language: C#   
+Version: 0.6  
 
 For study purposes and anyone interested about emulating hardware in C# .NET 
 
