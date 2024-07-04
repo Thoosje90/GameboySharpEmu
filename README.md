@@ -11,6 +11,6 @@ TODO:
 - Fix Screen Tearing
 
 
-![alt text](https://i.ibb.co/prWff0z/cf43454ed59c.png)
+![alt text](https://i.postimg.cc/tCB3CzP6/zeldaa.png)
 
 
