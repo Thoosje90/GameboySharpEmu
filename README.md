@@ -1,11 +1,12 @@
-Gameboy Emulator  
+__Gameboy Emulator__  
 Language: C#   
 Version: 0.6  
+Author: Thoosje
 
 Gameboy Emulator build in C# .NET  
 For study purposes and anyone interested about emulating hardware in C# .NET 
 
-TODO:
+__TODO:__
 - Audio
 - Gameboy Color Support
 - Fix Screen Tearing
