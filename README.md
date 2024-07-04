@@ -3,7 +3,7 @@ Language: C#
 Version: 0.6  
 Author: Thoosje
 
-Gameboy Emulator build entirely in C# .NET WinForms
+Gameboy Emulator build entirely in C# .NET WinForms.  
 For study purposes and anyone interested about emulating hardware in C# .NET 
 
 __TODO:__
